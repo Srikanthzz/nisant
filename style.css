@@ -1,0 +1,46 @@
+
+
+h1{
+    text-align: center;
+}
+.fb ul{
+    list-style-type: none;
+    background-color: #FEEC37;
+    padding: 0px;
+    text-align: center;
+    margin: 0px;
+    /* overflow: hidden; */
+}
+.fb a{
+    text-decoration: none;
+    display: inline-flex;
+    padding: 20px;
+    margin: 10px;
+    color: black;
+    font-size: large;
+    font-weight: 850;
+}
+
+    img{
+
+        width: 250px;
+        position: relative;
+        top: 50%; 
+        left: 50%;
+        transform: translate(-50%,-50%);
+        margin-top: 160px;
+        margin-bottom: -70px;
+        /* transform: translateX(10px);
+        transition: 2s; */
+        box-shadow: 8px 12px 20px  rgb(76, 76, 220) ;
+       }
+       img:hover{
+        transform: rotate(30deg);
+        transition: 2s;
+       }
+
+       }
+h3{
+    text-align: center;
+}
+
